@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
-//上野テストコメント
+//Ueno Comment　2014/11/18
 
 public class MainActivity extends Activity {
 
